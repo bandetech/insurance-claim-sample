@@ -1,9 +1,6 @@
 ## Name
 Insurance Claim Sample Application based on Marklogic.
 
-## Overview
-Insurance Claim Sample Application based on Marklogic.
-
 ## Description
 This is a sample application for Marklogic.
 When an insurance company receives a claim from customer, create a claim based on customer's insurance policy. The created claim are used to investigate and assess the issue. This sample application assumes very simple sample of claim management application based on Marklogic.
