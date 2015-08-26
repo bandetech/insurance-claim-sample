@@ -9,12 +9,11 @@ When an insurance company receives a claim from customer, create a claim based o
 Install Marklogic 8
 
 ## Install
-1) Create an App Server using following,
-   https://docs.marklogic.com/guide/getting-started/xquery#id_22010
-2) Load policy data and sequence data into database. 
-3) Copy all files (except sample-files) into application context path.
+1. Create an App Server using following, https://docs.marklogic.com/guide/getting-started/xquery#id_22010
+2. Load policy data and sequence data into database. 
+3. Copy all files (except sample-files) into application context path.
 
-# Usage
+## Usage
 Just access to top page of the application. You can see 3 menu.
 - Create a claim
 - Modify a cliam
