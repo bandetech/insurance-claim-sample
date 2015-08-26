@@ -1,7 +1,7 @@
-Name
+## Name
 Insurance Claim Sample Application based on Marklogic.
 
-Overview
+## Overview
 Insurance Claim Sample Application based on Marklogic.
 
 ## Description
