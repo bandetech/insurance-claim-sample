@@ -1,0 +1,12 @@
+<insurancePolicy xmlns="http://www.marklogic.com/sample/insurance-policy/">
+	<policy>
+		<policyNo>22222222</policyNo>
+		<firstName>Kyoko</firstName>
+		<lastName>Sato</lastName>
+		<zipCode>551-2244</zipCode>
+		<prefecture>Saitama</prefecture>
+		<city>Urawa</city>
+		<addr1>Yamada 2-1-13</addr1>
+		<addr2>202</addr2>
+	</policy>
+</insurancePolicy>

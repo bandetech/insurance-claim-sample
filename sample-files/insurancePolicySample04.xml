@@ -1,0 +1,12 @@
+<insurancePolicy xmlns="http://www.marklogic.com/sample/insurance-policy/">
+	<policy>
+		<policyNo>44444444</policyNo>
+		<firstName>Makoto</firstName>
+		<lastName>Suzuki</lastName>
+		<zipCode>113-2244</zipCode>
+		<prefecture>Tokyo</prefecture>
+		<city>Shibuyaku</city>
+		<addr1>Yoyogi 5-5-10</addr1>
+		<addr2></addr2>
+	</policy>
+</insurancePolicy>

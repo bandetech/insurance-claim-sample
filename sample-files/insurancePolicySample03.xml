@@ -1,0 +1,12 @@
+<insurancePolicy xmlns="http://www.marklogic.com/sample/insurance-policy/">
+	<policy>
+		<policyNo>33333333</policyNo>
+		<firstName>Kotaro</firstName>
+		<lastName>Yamada</lastName>
+		<zipCode>113-2244</zipCode>
+		<prefecture>Chiba</prefecture>
+		<city>Funabashi</city>
+		<addr1>Okuno 2-1-13</addr1>
+		<addr2>202</addr2>
+	</policy>
+</insurancePolicy>

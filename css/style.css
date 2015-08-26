@@ -1,0 +1,98 @@
+ul li {
+	list-style: none;
+	margin-top: 10px;
+}
+label {
+	margin-right: 10px;
+	width: 180px;
+	float: left;
+}
+
+input[type=text]{
+	width: 200px;
+}
+
+input#button{
+	font-size: 100%;
+}
+
+.page-title{
+	font-size: 120%;
+}
+
+.main-menu{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.menu-title{
+	text-align: center;
+}
+
+.claim-table{
+	display: table;
+	border-collapse: collapse;
+}
+
+.claim-row{
+	display: table-row;
+}
+
+.claim-cell{
+	display: table-cell;
+	border: 1px solid;
+	padding: 5px;
+}
+
+.ui-datepicker {
+	font-size: 70%;
+}
+
+.button {
+	margin-top: 20px;
+}
+.form-box {
+	overflow: visible;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3);
+	color: #333;
+}
+.form-left-box{
+	float: left;
+	width: 50%;
+	height: 160px;
+}
+
+.form-box.search-result{
+	visibility: hidden;
+}
+
+table {
+	width: auto;
+	border-spacing: 0;
+	border-top:1px solid #ccc;
+	border-right:1px solid #ccc;
+	mergin: 1em auto;
+	border-collapse: collapse;
+}
+
+td {
+	color:#5c5c5c;
+	border-bottom:1px solid #ccc;
+	border-left:1px solid #ccc;
+	padding:.3em 1em;
+	text-align:left;
+}
+
+thead th {
+    background:#ccc;
+    text-align:center;
+    font:bold 1.2em/2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+    color:#131313;
+}
+
+
+
