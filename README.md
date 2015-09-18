@@ -2,7 +2,7 @@
 Insurance Claim Sample Application based on Marklogic.
 
 ## Description
-This is a sample application for Marklogic.
+This is a XQuery sample application for Marklogic.
 When an insurance company receives a claim from customer, create a claim based on customer's insurance policy. The created claim are used to investigate and assess the issue. This sample application assumes very simple sample of claim management application based on Marklogic.
 
 ## Requirement
@@ -20,3 +20,6 @@ Just access to top page of the application. You can see 3 menu.
 - Search Claims
 
 Creating a new claim, need to specify 11111111 or 22222222 or 33333333 or 44444444 for policy No. field. (these are prepared by sample-files.) Then policy information (First Name, Last name etc.) for policy no will be filled in the form.
+
+## Caution
+Multi-access/transaction is not considered in this sample.
